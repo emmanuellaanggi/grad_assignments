@@ -1,2 +1,2 @@
 # grad_assignments
-All Colab for my master assignment :)
+All notebooks of my master assignment ^^
